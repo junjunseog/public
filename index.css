@@ -8,6 +8,10 @@ body {
     padding: 80px 30px;
 }
 
+.big {
+    border-radius: 600px;
+}
+
 #nav {
     position: fixed;
     top: 0;
